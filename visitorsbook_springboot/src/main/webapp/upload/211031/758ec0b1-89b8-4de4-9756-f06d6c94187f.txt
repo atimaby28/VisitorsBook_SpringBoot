@@ -1,0 +1,9 @@
+kakao map 관련 톡
+https://devtalk.kakao.com/
+
+-- kakaomap에 vue에서 marker찍기
+https://codesandbox.io/s/nervous-keldysh-87yxg?file=/src/components/KakaoMap.vue:0-3664
+
+
+-- vue에서 메소드안에서 콜백함수 사용할때 arrow 펑션으로 작성해야 this 사용할 수 있어요~
+https://devtalk.kakao.com/t/vue-map/98606
